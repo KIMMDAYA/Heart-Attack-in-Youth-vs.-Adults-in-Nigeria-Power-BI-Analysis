@@ -3,6 +3,8 @@
 ## Project Overview
 Heart disease is a leading cause of morbidity and mortality worldwide, with increasing prevalence in Nigeria due to changing lifestyles, urbanization, and socioeconomic factors. Understanding the distribution of heart attack cases among different demographics, as well as the key risk factors, is crucial for effective public health interventions. This study analyzes heart attack cases among youth and adults in Nigeria, with a focus on the impact of lifestyle choices, socioeconomic status, and pre-existing health conditions
 
+## Table of Contents
+
 
 
 ## Dataset Overview
